@@ -7,8 +7,8 @@ Useful for fast prototyping web applications.
 
 ### Setup
 
-* Clone repo
+* ```git clone https://github.com/emuls/basic-node-server```
 * ```npm install```
 * ```cd server```
 * ```node server.js```
-* Open a browser and go to [http://localhost:3000](http://localhost:3000)
+* Point your browser at [http://localhost:3000](http://localhost:3000)
